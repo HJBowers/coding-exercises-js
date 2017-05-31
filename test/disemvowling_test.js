@@ -1,8 +1,15 @@
 import { expect } from 'chai'
 import disemvowling from '../src/disemvowling'
 
-describe('disemvowling()', () => {
+describe('disemvowling', function() {
+  var phrase = "i am groot"
 
-  // Your tests here...
+  it('should be a function', function() {
+    expect(disemvowling).to.be.a('function')
+  })
 
+  it('removes all vowels', function() {
+    expect(disemvowling(phrase)).to.deep.equal("mgrt"
+    )
+  })
 })

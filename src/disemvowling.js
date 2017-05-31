@@ -1,5 +1,4 @@
-export default function disemvowling() {
-  const bag = [
-
-  ]
+export default function disemvowling(phrase) {
+  const consonants = phrase.replace(/[aeiou]*\s*/g, "")
+  return consonants
 }
