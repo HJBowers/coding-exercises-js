@@ -1,10 +1,10 @@
 import { expect } from 'chai'
 import scrabBag from '../src/scrabBag'
 
-describe('2. Scrab Bag', function() {
+describe('1. Scrab Bag', function() {
   var playedTiles = "AEREAOXMYCNS_B"
 
-  it('should be a function', function(){
+  it('should be a function', function() {
     expect(scrabBag).to.be.a('function')
   })
 
