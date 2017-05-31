@@ -1,7 +1,7 @@
 import { expect } from 'chai'
 import disemvowling from '../src/disemvowling'
 
-describe('disemvowling', function() {
+describe('4. Disemvowling', function() {
   var phrase = "i am groot"
 
   it('should be a function', function() {
