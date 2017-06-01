@@ -14,25 +14,25 @@ Tests and correct implementations exist for the following exercises:
 
 - [x] 1. Scrab-Bag
 - [x] 2. String Indices
-- [ ] 3. Fibonacci Bases
+- [x] 3. Fibonacci Bases
 - [x] 4. The Disemvowling
 - [x] 5. Where in the JSON?
 - [x] 6. Who Wants A Date?
-- [ ] 7. Play it again, JavaScript!
+- [x] 7. Play it again, JavaScript!
 - [ ] 8. Parens-B-Gone
 
 General
 
-- [ ] 5: Artifact produced is a fork of the coding-exercises-js repo.
-- [ ] 10: Can run all tests with npm test.
-- [ ] 10: All tests are passing.
-- [ ] 5: Repository includes a README file with basic installation and setup instructions.
-- [ ] 10: All package dependencies are properly declared in package.json.
-- [ ] 5: All major features are added via pull requests with a clear description and concise commit messages.
+- [x] 5: Artifact produced is a fork of the coding-exercises-js repo.
+- [x] 10: Can run all tests with npm test.
+- [x] 10: All tests are passing.
+- [x] 5: Repository includes a README file with basic installation and setup instructions.
+- [x] 10: All package dependencies are properly declared in package.json.
+- [x] 5: All major features are added via pull requests with a clear description and concise commit messages.
 - [ ] 5: Code uses a linter and there are no linting errors.
-- [ ] 10: Variables, functions, files, etc. have appropriate and meaningful names.
-- [ ] 10: Functions are small and serve a single purpose.
-- [ ] 5: The artifact produced is properly licensed, preferably with the MIT license.
+- [x] 10: Variables, functions, files, etc. have appropriate and meaningful names.
+- [x] 10: Functions are small and serve a single purpose.
+- [x] 5: The artifact produced is properly licensed, preferably with the MIT license.
 
 ## Stretch
 
@@ -45,9 +45,6 @@ Tests and correct implementations exist for the following exercises:
 - [ ] 5. String Permutations
 - [ ] 6. Guess The Number
 - [ ] 7. Finite State Gate
-
-
-
 
 
 ## Exercises
